@@ -14,7 +14,10 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+Before we can start to analyse a time series, we have to get one. 
+A nice and easy way is to import the data directly form various internet sources such as 
+Yahoo Finance or the Federal Reserve Bank of St. Louis (who provide plenty of economic datasets) using the `quantmod` package. 
+
 
 `@instructions`
 
